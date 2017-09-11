@@ -171,7 +171,7 @@ unzip mtec1002-lab-02.zip
 
 Copy and paste the output below.
 ----------
- cd 
+ books logs web
 
 
 ==========
@@ -182,6 +182,10 @@ We're going to mess around with archiving and compressing files.  We'll make a d
 
 Copy and paste the output below.
 ----------
+AF1.ai			Sound Effects Server	mtec1002-lab-02.zip
+AF2.ai			Student Temporary Work	stuff
+Share 1 Read Only	google.html
+Share 2 Read-Write	more-stuff
 
 
 
@@ -194,6 +198,7 @@ List the files in the directory you're currently in (which should be stuff).
 
 Copy and paste the output below.
 ----------
+echo "hi" > hello.txt
 
 
 
