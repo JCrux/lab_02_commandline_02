@@ -43,6 +43,7 @@ cd Desktop
 ==========
 6. What's the absolute path to your Desktop directory?
 ----------
+/User/Student/Desktop
 
 
 
